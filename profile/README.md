@@ -1,4 +1,3 @@
-# DevConclave
 
 <p align="center">
 <img src="https://github.com/Krips24/organisationstuff/blob/main/images/Screenshot%202023-06-18%20142226.png?raw=true"/>
