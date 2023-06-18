@@ -1,5 +1,9 @@
 # DevConclave
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/76674591/193411913-1e70d4db-3298-45cd-b21b-4cd357f78287.gif"/>
+</p>
+
 DevConclave is an open-source community of programmers dedicated to collaborating and supporting each other in building innovative projects. Whether it involves crafting intricate encryption programs or implementing elegant ciphers, our primary objective is to work collectively in documenting and showcasing beautiful, helpful, and intriguing algorithms through code.
 
 At DevConclave, our core motives revolve around:
