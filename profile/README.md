@@ -2,8 +2,6 @@
 
 DevConclave is an open-source community of programmers dedicated to collaborating and supporting each other in building innovative projects. Whether it involves crafting intricate encryption programs or implementing elegant ciphers, our primary objective is to work collectively in documenting and showcasing beautiful, helpful, and intriguing algorithms through code.
 
-As an inclusive organization, we welcome contributions from anyone interested in joining our community. Our collaborative approach involves thorough code reviews, effective communication, and problem-solving discussions. We strive to maintain a welcoming and respectful environment while adhering to the latest programming guidelines and standards.
-
 At DevConclave, our core motives revolve around:
 
 1. Collaboration and Support: We foster a culture of teamwork, where members actively engage in assisting one another to tackle challenges and achieve shared goals. Collaboration is at the heart of our community.
