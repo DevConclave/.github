@@ -1,7 +1,7 @@
 # DevConclave
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/76674591/193411913-1e70d4db-3298-45cd-b21b-4cd357f78287.gif"/>
+<img src="https://github.com/Krips24/organisationstuff/blob/main/images/Screenshot%202023-06-18%20142226.png?raw=true"/>
 </p>
 
 DevConclave is an open-source community of programmers dedicated to collaborating and supporting each other in building innovative projects. Whether it involves crafting intricate encryption programs or implementing elegant ciphers, our primary objective is to work collectively in documenting and showcasing beautiful, helpful, and intriguing algorithms through code.
